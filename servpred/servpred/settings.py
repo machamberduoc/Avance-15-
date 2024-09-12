@@ -92,14 +92,7 @@ WSGI_APPLICATION = 'servpred.wsgi.application'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#databases
 
 DATABASES = {
-     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'da2po1qiceo48t',
-        'USER': 'u9euar2puv4dnq',
-        'PASSWORD': 'p6d0d0213318055f718bf722cad59b26d8213b266c78fc56aed738f06903d1fd1',
-        'HOST': 'cat670aihdrkt1.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com',
-        'PORT': '5432',
-    }
+    
 }
 
 
